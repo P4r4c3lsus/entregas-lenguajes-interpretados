@@ -14,4 +14,4 @@ Hola mucho gusto mi nombre como lo podra notar en el título es Diego, tengo 22 
 - [Steam](https://steamcommunity.com/profiles/76561198406266024/)
 - [Se acepta el follow](https://www.twitch.tv/dbomd)
 
-![Yo ese](https://media.discordapp.net/attachments/1291404953671438370/1411050291167625246/20240616_160446_Original.jpg?ex=68b33e7d&is=68b1ecfd&hm=f945d3cdb9244463e15ec24afe0106a925242bda264ebcd74a0d843337573dc7&=&format=webp&width=655&height=873)
+![Yo ese](./ASSETS/YOBUAPO.webp)
