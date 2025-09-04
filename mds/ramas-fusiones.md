@@ -15,3 +15,17 @@ En esta materia estamos viendo todo lo relacionado con el diseño gráfico, la p
 Asi mismo estamos viendo la tipografía y el como en un documento o revista los elementos deben de estar organozados de cierta forma para que a la persona que este leyendo tu artículo, no se canse visualmente y se aburra y lo deje. 
 
 ![Composición y Diseño](../ASSETS/lobo_auu.jpg)
+## Programación en Lenguajes Interpretados 
+
+### Prof. Jonathan MirCha
+
+En esta materia estamos aprendiendo el como se configura el _**Git**_ desde cero, también creamos una cuenta de _**GitHub**_ y como se vincula esta con _Git_, aprendimos a como configurar nuestro _**Visual Code**_ para que este sea mucho más sencillo y nos vayamos familiarizando con este programa.
+
+También nos enseño los comandos que tenemos que usar en _**Git**_ y como crear:
+1. Carpetas
+2. Archivos .txt
+1. Lenguaje Markdown (como utilizarlo)
+1. Listas Numeradas
+1. Etc....
+
+![Ejemplo](../ASSETS/markdownpreview.png)
