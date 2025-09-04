@@ -13,4 +13,4 @@ También nos enseño los comandos que tenemos que usar en _**Git**_ y como crear
 1. Listas Numeradas
 1. Etc....
 
-![Ejemplo](ASSETS/markdownpreview.png)
+![Ejemplo](../ASSETS/markdownpreview.png)
