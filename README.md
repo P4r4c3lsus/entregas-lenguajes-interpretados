@@ -15,3 +15,7 @@ Hola mucho gusto mi nombre como lo podra notar en el título es Diego, tengo 22 
 - [Se acepta el follow](https://www.twitch.tv/dbomd)
 
 ![Yo ese](./ASSETS/YOBUAPO.webp)
+
+## Entregables
+- [Práctica 1]()
+- [Práctica 2](mds/ramas-fusiones.md)
