@@ -36,3 +36,10 @@ También nos enseño los comandos que tenemos que usar en _**Git**_ y como crear
 En esta materia estamos viendo como podemos desarrollar una app para celulares la cual funcione como repaso y podramos poner a prueba lo que hemos aprendido hasta el momento,tambien irnos adaptando para futuros trabajos ya sea con personas desconocidas en tu trabajo o en algun proyecto personal. 
 
 ![Desarrollo de Apps](../ASSETS/cross-platform-app-dev-2024.webp)
+## Sistemas Operativos y Redes
+
+### Prof. Alcides Albora
+
+En esta materia estamos aprendiendo a como ingresar a ubuntu para abrir un escritorio virtual asi mismo como los comandos los cuales son bastantes parecidos a los de git lo cual facilita su aprendizaje y tambien vimos los componentes de una computadora y la importancia de la bios. 
+
+![Sistemas Operativos](../ASSETS/descargar.jpg)
