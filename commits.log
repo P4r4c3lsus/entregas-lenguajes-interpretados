@@ -1,0 +1,38 @@
+* 17e9097 Terminando Práctica Ramas y Fusiones
+*   3ef8a54 arreglando unos problemas con la fusion de mas materias
+|\  
+| * 633c798 Terminando con la materia de Sistemas Operativos y Redes
+* |   825787d arreglando unos problemas con la fusion de mas materias
+|\ \  
+| * | cef2cc1 Ya pude poner la imagen bien
+| * | debea5b terminando con la materia de proyecto semestral:desarrollo de apps interactivas
+| |/  
+* |   fec10f9 arreglando unos problemas con la fusion de mas materias
+|\ \  
+| * | e5ae0fa Ya pude poner la imagen bien
+| * | cf73fb4 terminando con la materia programacion de lenguajes interpretados
+| |/  
+* |   70cfe27 arreglando unos problemas con la fusion de mas materias
+|\ \  
+| * | 0f2ee73 Ya pude poner la imagen bien
+| * | 7c5ebe6 termine con la materia de principios y composicion
+| |/  
+* / 3d75566 Terminando con la materia de Diseño de Videojuegos
+|/  
+* db8ee31 Empezando Práctica Ramas y Fusiones
+* ff6c6b2 ramificacion
+*   3acbac4 Merge branch 'js'
+|\  
+| * c727d1d Modificando index.html en la rama js
+| * 5f2cd3c Creando archivo main.js en la rama js
+* |   661836c Merge branch 'css'
+|\ \  
+| * | 8367f75 Creando hoja de estilos
+* | | f4adf98 Agregando código necesario para incluir archivos css y js
+| |/  
+|/|   
+* | 81190b1 Escribiendo contenido en el index.html
+* | a4f4e0d creando documento index.html en la rama html
+|/  
+* 395adcc Mi segundo commit
+* dcee2be Mi primer commit
