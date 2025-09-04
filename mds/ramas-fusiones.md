@@ -7,4 +7,4 @@ En esta materia estamos viendo todo lo relacionado con el diseño gráfico, la p
 
 Asi mismo estamos viendo la tipografía y el como en un documento o revista los elementos deben de estar organozados de cierta forma para que a la persona que este leyendo tu artículo, no se canse visualmente y se aburra y lo deje. 
 
-![Composición y Diseño](ASSETS/lobo_auu.jpg)
+![Composición y Diseño](../ASSETS/lobo_auu.jpg)
