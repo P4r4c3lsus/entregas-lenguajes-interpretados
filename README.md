@@ -18,4 +18,5 @@ Hola mucho gusto mi nombre como lo podra notar en el título es Diego, tengo 22 
 
 ## Entregables
 - [Práctica 1]()
-- [Práctica 2](mds/ramas-fusiones.md)
+- [Práctica 2](./mds/ramas-fusiones.md)
+- [Práctica 3](./mds/etiquetas.md)
