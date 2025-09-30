@@ -35,3 +35,10 @@ La versión más icónica, sin embargo, fue desarrollada por _**Taneli Armanto**
 
 ### Diagrama de Flujo
 ![](../ASSETS/Diagrama%20sin%20título.drawio.png)
+
+### Promp para chat IA
+
+Ayudame a crear un juego para una página web el cual se base en el juego antiguo llamado snake el cual contenga todos sus elementos y tambien cuente con un marcador de best score y cada vez que se rompa ese score se guarde el nuevo score, damelo en lenjuage html y que tenga una interfaz bonita pero tampoco no muy elaborada, que sea sencilla pero eficaz.
+
+### Conversación con Nova aka (Perplexity) 
+[Conversación con la IA](https://www.perplexity.ai/search/ayudame-a-crear-un-juego-para-Vz.53DjXTYaI7uWT5xs7pw#0) 
