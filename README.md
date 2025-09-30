@@ -22,3 +22,4 @@ Hola mucho gusto mi nombre como lo podra notar en el título es Diego, tengo 22 
 - [Práctica 3](./mds/etiquetas.md)
 - [Práctica 4](./mds/primer-parcial.md)
 - [Práctica 6](./docs/snake.md)
+- [Práctica 7](./docs/snake.html)
